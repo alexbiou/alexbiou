@@ -23,14 +23,6 @@
 
 ---
 
-### 🚀 What I Do
-* 🌐 **Full-Stack Web Apps:** Modern, scalable websites & SaaS platforms.
-* 🤖 **Telegram Bots & Mini Apps:** Custom bots with payments, AI & database integration.
-* ⚡ **AI & Automation:** Integrating LLMs (OpenAI, Claude) and automating workflows (n8n, Make).
-* 🔬 **R&D:** Exploring cybersecurity, clean architecture, and independent micro-products.
-
----
-
 ### 🛠 Tech Stack
 
 **Frontend:**
@@ -58,9 +50,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexbiou&show_icons=true&theme=tokyonight&hide_border=true" alt="Alex's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbiou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 🚀 What I Do
+* 🌐 **Full-Stack Web Apps:** Modern, scalable websites & SaaS platforms.
+* 🤖 **Telegram Bots & Mini Apps:** Custom bots with payments, AI & database integration.
+* ⚡ **AI & Automation:** Integrating LLMs (OpenAI, Claude) and automating workflows (n8n, Make).
+* 🔬 **R&D:** Exploring cybersecurity, clean architecture, and independent micro-products.
