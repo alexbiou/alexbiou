@@ -13,6 +13,9 @@
   <a href="https://www.instagram.com/alexander.belovich/">
     <img src="https://img.shields.io/badge/Instagram-alexander.belovich-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://www.linkedin.com/in/alex-lead/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:alex.lead.bio@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -51,7 +54,7 @@
 ---
 
 ### 🚀 What I Do
-* 🌐 **Full-Stack Web Apps:** Modern, scalable websites & SaaS platforms.
-* 🤖 **Telegram Bots & Mini Apps:** Custom bots with payments, AI & database integration.
-* ⚡ **AI & Automation:** Integrating LLMs (OpenAI, Claude) and automating workflows (n8n, Make).
-* 🔬 **R&D:** Exploring cybersecurity, clean architecture, and independent micro-products.
+- 🌐 **Full-Stack Web Apps:** Modern, scalable websites & SaaS platforms.
+- 🤖 **Telegram Bots & Mini Apps:** Custom bots with payments, AI & database integration.
+- ⚡ **AI & Automation:** Integrating LLMs (OpenAI, Claude) and automating workflows (n8n, Make).
+- 🔬 **R&D:** Exploring cybersecurity, clean architecture, and independent micro-products.
